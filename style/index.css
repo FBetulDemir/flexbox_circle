@@ -1,12 +1,11 @@
 body{
-    background-color: #836900;
+    background-color: #f6b139;
     display: flex;
     flex-wrap: wrap;
     height: 100%;
     margin: auto;
     width: 75%;
     align-content: center;
-    border: 5px solid red;
 }
 .circle{
     display: flex;
